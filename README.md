@@ -11,6 +11,11 @@ the one that has been in the shop the longest takes a seat on the sofa.
 When a customer’s haircut is finished, any barber can accept payment, but because there is only one cash register, 
 payment is accepted for one customer at a time. The bar- bers divide their time among cutting hair, accepting payment, and sleeping in their chair waiting for a customer.
 
+# Installation
+```
 git clone https://github.com/skirupa/Hilzer-s-barber-shop-synchronization-problem
-
+```
+# Usage
+```
 Run with a C compiler.
+```
